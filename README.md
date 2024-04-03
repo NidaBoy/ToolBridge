@@ -58,7 +58,7 @@ O ToolBridge é desenvolvido com o objetivo de ser uma ponte entre usuários e l
 - Como cliente eu quero visualizar o meu carrinho
   - Criar a tela do carrinho
 - Como cliente eu quero alugar um produto que está no meu carrinho
-  - Criar a lógica do aluguél
+  - Criar a lógica do aluguel
 
 ## Desenvolvedores
 - Espezzialy Souza - FullStack
