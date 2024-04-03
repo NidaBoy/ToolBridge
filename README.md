@@ -17,6 +17,6 @@ O ToolBridge é desenvolvido com o objetivo de ser uma ponte entre usuários e l
 - JWT (JSON Web Tokens): Tecnologia utilizada para a autenticação de usuários, garantindo segurança e integridade das sessões.
 - Bcrypt: Biblioteca para a criptografia de senhas, assegurando a proteção de dados sensíveis dos usuários.
 ## Desenvolvedores
-Espezzialy Souza - FullStack
-Joao Brito - Fullstack
-Daniel - FullStack
+- Espezzialy Souza - FullStack
+- Joao Brito - Fullstack
+- Daniel - FullStack
