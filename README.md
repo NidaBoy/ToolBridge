@@ -19,9 +19,11 @@ O ToolBridge é desenvolvido com o objetivo de ser uma ponte entre usuários e l
 
 ## Backlog do Produto
 
-- Como cliente eu quero poder criar uma conta de cliente para acessar funcionalidades exclusivas
+- Como cliente eu quero criar uma conta de cliente para acessar funcionalidades exclusivas
 - Como lojista eu quero criar uma conta de lojista para acessar funcionalidades exclusivas
-- Como cliente eu quero visualizar os produtos oferecidos por cada loja
+- Como cliente eu quero logar na minha conta de cliente para acessar funcionalidades exclusivas
+- Como lojista eu quero logar na minha conta de lojista para acessar funcionalidades exclusivas
+- Como cliente eu quero visualizar as ferramentas disponíveis oferecidas por cada loja
 - Como cliente eu quero filtrar por categoria as ferramentas disponíveis
 - Como cliente eu quero adicionar uma ferramenta para aluguél ao meu  carrinho
 - Como cliente eu quero visualizar o meu carrinho
@@ -33,6 +35,28 @@ O ToolBridge é desenvolvido com o objetivo de ser uma ponte entre usuários e l
 - Como lojista eu quero adicionar uma ferramenta à minha loja
 - Como lojista eu quero visualizar minhas ferramentas alugadas
 - Como lojista eu quero visualizar meu histórico de aluguéis
+- Como lojista eu quero modificar informações de uma ferramenta oferecida
+- Como Lojista eu quero excluir uma ferramenta
+- Como lojista eu quero modificar as informações da minha loja
+
+## Backlog da Sprint
+- Como cliente eu quero criar uma conta de cliente para acessar funcionalidades exclusivas
+  - Definir a estrutura básica do projeto, incluindo a organização de pastas, arquivos e componentes.
+  - Criar aplicação node
+  - Configurar o banco de dados e criar as primeiras tabelas
+  - Configurar o Express e o Rest e testar uma rota
+  - Criar a tela de cadastro de conta
+  - Criar a lógica de cadastro
+- Como lojista eu quero criar uma conta de lojista para acessar funcionalidades exclusivas
+  - Criar a tela de cadastro de conta
+  - Criar a lógica de cadastro
+- Como cliente eu quero logar na minha conta de cliente para acessar funcionalidades exclusivas
+- Como lojista eu quero logar na minha conta de lojista para acessar funcionalidades exclusivas
+- Como lojista eu quero adicionar uma ferramenta à minha loja
+- Como cliente eu quero visualizar as ferramentas disponíveis oferecidas por cada loja
+- Como cliente eu quero adicionar uma ferramenta para aluguél ao meu  carrinho
+- Como cliente eu quero visualizar o meu carrinho
+- Como cliente eu quero alugar um produto que está no meu carrinho
 
 
 ## Desenvolvedores
