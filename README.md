@@ -6,7 +6,7 @@ O ToolBridge é desenvolvido com o objetivo de ser uma ponte entre usuários e l
 ## Membros
 - Espezzialy Souza
 - Joao Brito
-- Daniel
+- Daniel Barreto
 
 ## Funcionalidades
 - Cadastro de Usuários e Lojistas: Permite que usuários criem suas próprias contas, enquanto lojistas são adicionados pela equipe do ToolBridge, garantindo confiabilidade e segurança.
