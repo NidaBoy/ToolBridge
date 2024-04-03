@@ -3,6 +3,10 @@ Este repositório contém o código-fonte do ToolBridge, uma aplicação inovado
 
 ## Visão Geral
 O ToolBridge é desenvolvido com o objetivo de ser uma ponte entre usuários e lojistas, permitindo que ferramentas sejam alugadas de forma eficiente e sem complicações. O sistema oferece um meio de aumentar a utilidade de ferramentas que, de outra forma, permaneceriam inativas, maximizando assim seu potencial e disponibilidade.
+## Membros
+- Espezzialy Souza
+- Joao Brito
+- Daniel
 
 ## Funcionalidades
 - Cadastro de Usuários e Lojistas: Permite que usuários criem suas próprias contas, enquanto lojistas são adicionados pela equipe do ToolBridge, garantindo confiabilidade e segurança.
