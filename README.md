@@ -47,28 +47,18 @@ O ToolBridge é desenvolvido com o objetivo de ser uma ponte entre usuários e l
   - Configurar o Express e o Rest e testar uma rota
   - Criar a tela de cadastro de conta
   - Criar a lógica de cadastro
-- Como lojista eu quero criar uma conta de lojista para acessar funcionalidades exclusivas
-  - Criar a tela de cadastro de conta
-  - Criar a lógica de cadastro
 - Como cliente eu quero logar na minha conta de cliente para acessar funcionalidades exclusivas
   - Criar a tela de login
   - Criar a lógica de login
-- Como lojista eu quero logar na minha conta de lojista para acessar funcionalidades exclusivas
-  - Criar a tela de login
-  - Criar a lógica de login
-- Como lojista eu quero adicionar uma ferramenta à minha loja
-  - Criar a tela da loja
-  - Criar a tela de ferammentas da loja
-  - Criar a tela de adição de ferramenta
-  - Criar a lógica de adição de ferramenta
 - Como cliente eu quero visualizar as ferramentas disponíveis oferecidas por cada loja
   - Criar a tela principal de ferramentas oferecidas pelas lojas
   - Criar a lógica de recuperação de ferramentas oferecidas pelas lojas
 - Como cliente eu quero adicionar uma ferramenta para aluguél ao meu  carrinho
-  - Criar
+  - Criar a lógica do carrinho
 - Como cliente eu quero visualizar o meu carrinho
+  - Criar a tela do carrinho
 - Como cliente eu quero alugar um produto que está no meu carrinho
-
+  - Criar a lógica do aluguél
 
 ## Desenvolvedores
 - Espezzialy Souza - FullStack
