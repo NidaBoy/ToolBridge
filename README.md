@@ -25,9 +25,10 @@ O ToolBridge é desenvolvido com o objetivo de ser uma ponte entre usuários e l
 - Como lojista eu quero logar na minha conta de lojista para acessar funcionalidades exclusivas
 - Como cliente eu quero visualizar as ferramentas disponíveis oferecidas por cada loja
 - Como cliente eu quero filtrar por categoria as ferramentas disponíveis
-- Como cliente eu quero adicionar uma ferramenta para aluguél ao meu  carrinho
+- Como cliente eu quero adicionar uma ferramenta para aluguel ao meu  carrinho
 - Como cliente eu quero visualizar o meu carrinho
-- Como cliente eu quero alugar um produto que está no meu carrinho
+- Como cliente eu quero solicitar o aluguel de produtos que estão no meu carrinho
+- Como lojista eu quero aceitar a solicitação de aluguel enviada por um cliente
 - Como cliente eu quero ver meus aluguéis ativos
 - Como cliente eu quero devolver uma ferramenta alugada
 - Como cliente eu quero visualizar meu histórico de aluguéis
@@ -38,6 +39,8 @@ O ToolBridge é desenvolvido com o objetivo de ser uma ponte entre usuários e l
 - Como lojista eu quero modificar informações de uma ferramenta oferecida
 - Como Lojista eu quero excluir uma ferramenta
 - Como lojista eu quero modificar as informações da minha loja
+- Como cliente eu quero avaliar uma loja a qual aluguei um produto
+- Como lojista eu quero avaliar um cliente que alugou minhas peças
 
 ## Backlog da Sprint
 - Como cliente eu quero criar uma conta de cliente para acessar funcionalidades exclusivas
