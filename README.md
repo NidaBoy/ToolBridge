@@ -19,19 +19,20 @@ O ToolBridge é desenvolvido com o objetivo de ser uma ponte entre usuários e l
 
 ## Backlog do Produto
 
-- Como um cliente eu quero poder criar uma conta de cliente para acessar funcionalidades exclusivas
-- Como um lojista eu quero criar uma conta de lojista para acessar funcionalidades exclusivas
+- Como cliente eu quero poder criar uma conta de cliente para acessar funcionalidades exclusivas
+- Como lojista eu quero criar uma conta de lojista para acessar funcionalidades exclusivas
 - Como cliente eu quero visualizar os produtos oferecidos por cada loja
-- Como cliente eu quero filtrar por categoria os produtos disponíveis
-- Como um cliente eu quero adicionar um produto ao meu  carrinho
+- Como cliente eu quero filtrar por categoria as ferramentas disponíveis
+- Como cliente eu quero adicionar uma ferramenta para aluguél ao meu  carrinho
 - Como cliente eu quero visualizar o meu carrinho
-- Como um cliente eu quero alugar um produto que está no meu carrinho
-- Como um cliente eu quero ver meus aluguéis ativos
-- Como um cliente eu quero visualizar meu histórico de aluguéis
+- Como cliente eu quero alugar um produto que está no meu carrinho
+- Como cliente eu quero ver meus aluguéis ativos
+- Como cliente eu quero devolver uma ferramenta alugada
+- Como cliente eu quero visualizar meu histórico de aluguéis
 - Como cliente eu quero alterar minhas informações de conta
-- Como lojista eu quero adicionar um produto a minha loja
-- Como lojista eu quero visualizar meus produtos alugados
-- Como losjista eu quero visualizar meu histórico de aluguéis
+- Como lojista eu quero adicionar uma ferramenta à minha loja
+- Como lojista eu quero visualizar minhas ferramentas alugadas
+- Como lojista eu quero visualizar meu histórico de aluguéis
 
 
 ## Desenvolvedores
