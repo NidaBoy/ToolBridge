@@ -16,6 +16,24 @@ O ToolBridge é desenvolvido com o objetivo de ser uma ponte entre usuários e l
 - Express.js: Framework para Node.js que facilita a criação de APIs web de maneira rápida e fácil.
 - JWT (JSON Web Tokens): Tecnologia utilizada para a autenticação de usuários, garantindo segurança e integridade das sessões.
 - Bcrypt: Biblioteca para a criptografia de senhas, assegurando a proteção de dados sensíveis dos usuários.
+
+## Backlog do Produto
+
+- Como um cliente eu quero poder criar uma conta de cliente para acessar funcionalidades exclusivas
+- Como um lojista eu quero criar uma conta de lojista para acessar funcionalidades exclusivas
+- Como cliente eu quero visualizar os produtos oferecidos por cada loja
+- Como cliente eu quero filtrar por categoria os produtos disponíveis
+- Como um cliente eu quero adicionar um produto ao meu  carrinho
+- Como cliente eu quero visualizar o meu carrinho
+- Como um cliente eu quero alugar um produto que está no meu carrinho
+- Como um cliente eu quero ver meus aluguéis ativos
+- Como um cliente eu quero visualizar meu histórico de aluguéis
+- Como cliente eu quero alterar minhas informações de conta
+- Como lojista eu quero adicionar um produto a minha loja
+- Como lojista eu quero visualizar meus produtos alugados
+- Como losjista eu quero visualizar meu histórico de aluguéis
+
+
 ## Desenvolvedores
 - Espezzialy Souza - FullStack
 - Joao Brito - Fullstack
